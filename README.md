@@ -8,7 +8,9 @@ Coin is collecetd when you are 50 meters or closer to it.
 * I need to add circle around GPS position, so that user can see when he is getting closer
 
 ### Screenshots
-![LIST OF USERS](https://github.com/tomyslav/MoneyGo/blob/master/screenshots/list_of_users.png)
-![USER SCREEN](https://github.com/tomyslav/MoneyGo/blob/master/screenshots/user_screen.png)
-![SELECTING AREA TO PLAY(https://github.com/tomyslav/MoneyGo/blob/master/screenshots/select_area_for_play.png)
-![PLAY (GPS is not turned on here, so you do not see actual position of user)](https://github.com/tomyslav/MoneyGo/blob/master/screenshots/play.png)
+
+<img src="https://github.com/tomyslav/MoneyGo/blob/master/screenshots/list_of_users.png" width="50%" height="50%" />
+<img src="https://github.com/tomyslav/MoneyGo/blob/master/screenshots/user_screen.png" width="50%" height="50%" />
+<img src="https://github.com/tomyslav/MoneyGo/blob/master/screenshots/select_area_for_play.png" width="50%" height="50%" />
+<img src="https://github.com/tomyslav/MoneyGo/blob/master/screenshots/play.png" width="50%" height="50%" />
+
