@@ -45,8 +45,8 @@ public class MapsActivity extends FragmentActivity implements
     private final float MAX_ZOOM_LEVEL = 14.6f;
 
     private final int mCoinFive = 5;
-    private final int mCoinTwo = 5;
-    private final int mCoinOne = 5;
+    private final int mCoinTwo = 2;
+    private final int mCoinOne = 1;
 
 
     private boolean mGameMode = false;
