@@ -1,0 +1,42 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             tools:context="com.tiliasolutions.moneygo.MapsActivity" >
+
+<fragment xmlns:map="http://schemas.android.com/apk/res-auto"
+          android:id="@+id/map"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:scrollbars="vertical"
+          class="com.google.android.gms.maps.SupportMapFragment"/>
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Select Your Area For Play"
+        android:id="@+id/text_on_map"
+        android:layout_gravity="center_horizontal|top"
+        android:paddingTop="20dp"/>
+
+
+
+    <ImageButton
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:scaleType="fitXY"
+        android:id="@+id/btn_ok"
+        android:src="@drawable/ic_check_circle_black_48dp"
+        android:background="@null"
+        android:layout_gravity="right|bottom"
+        android:layout_marginBottom="10dp"
+        android:layout_marginRight="10dp"
+        android:onClick="createGame"/>
+
+
+
+</FrameLayout>
