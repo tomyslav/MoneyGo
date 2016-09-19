@@ -9,8 +9,8 @@ Coin is collecetd when you are 50 meters or closer to it.
 
 ### Screenshots
 
-<img src="https://github.com/tomyslav/MoneyGo/blob/master/screenshots/list_of_users.png" width="30%" height="30%" />
-<img src="https://github.com/tomyslav/MoneyGo/blob/master/screenshots/user_screen.png" width="30%" height="30%" />
-<img src="https://github.com/tomyslav/MoneyGo/blob/master/screenshots/select_area_for_play.png" width="30%" height="30%" />
-<img src="https://github.com/tomyslav/MoneyGo/blob/master/screenshots/play.png" width="30%" height="30%" />
+<img alt="LIST OF USERS" src="https://github.com/tomyslav/MoneyGo/blob/master/screenshots/list_of_users.png" width="30%" height="30%" />
+<img alt="USER SCREEN" src="https://github.com/tomyslav/MoneyGo/blob/master/screenshots/user_screen.png" width="30%" height="30%" />
+<img alt="SELECTING AREA TO PLAY" src="https://github.com/tomyslav/MoneyGo/blob/master/screenshots/select_area_for_play.png" width="30%" height="30%" />
+<img alt="PLAY (GPS is not turned on here, so you do not see actual position of user)" src="https://github.com/tomyslav/MoneyGo/blob/master/screenshots/play.png" width="30%" height="30%" />
 
